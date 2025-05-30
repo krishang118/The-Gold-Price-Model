@@ -76,8 +76,8 @@ The initially built ML model forms the basis for, and is visualized through a fu
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/krishang118/The-Gold-Price-Model.git
-cd The-Gold-Price-Model
+git clone https://github.com/krishang118/The-Gold-Price-Predictor.git
+cd The-Gold-Price-Predictor
 ```
 
 **2. Backend Setup:**
@@ -120,7 +120,7 @@ The frontend development server should start on `http://localhost:5173`.
 ## Project Structure
 
 ```
-The-Gold-Price-Model/
+The-Gold-Price-Predictor/
 ├── api/                # Flask backend code
 ├── src/                # React frontend code
 │   ├── components/     # Reusable React components
