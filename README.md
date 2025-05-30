@@ -42,7 +42,7 @@ The initially built ML model forms the basis for, and is visualized through a fu
 - Backend API built with Flask to serve available data, forecasts, and model metrics.
 - Daily and monthly price forecasting using time series models (Holt's prediction method, including damped trend variation).
 - Frontend dashboard built with React and TypeScript for data presentation and visualization.
-- Displays historical daily and monthly price charts.
+- Displays daily and monthly price charts.
 - Shows daily and monthly price forecasts.
 - Presents model accuracy metrics (RMSE, MAE) and parameters.
 - Responsive UI using Tailwind CSS.
