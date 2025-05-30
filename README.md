@@ -76,8 +76,8 @@ The initially built ML model forms the basis for, and is visualized through a fu
 **1. Clone the repository:**
 
 ```bash
-git clone https://github.com/krishang118/The-Gold-Prices-Model
-cd project
+git clone https://github.com/krishang118/The-Gold-Prices-Model.git
+cd The-Gold-Prices-Model
 ```
 
 **2. Backend Setup:**
@@ -143,4 +143,3 @@ Contributions are welcome!
 ## License
 
 Distributed under the MIT License.
-
