@@ -2,7 +2,7 @@
 
 ## Machine Learning Model (Gold Prices Model.ipynb)
 
-The 'ML' folder includes the Jupyter notebook ML Model file (`Gold Prices Model.ipynb`), along with two extracted .xlsx data files. 
+The 'ML' folder includes the ML Model Jupyter notebook file (`Gold Prices Model.ipynb`), along with two extracted .xlsx data files. 
 
 The model implements the thorough process of scraping real-time gold price data; developing, training, and evaluating a time series forecasting model; and generating future price predictions.
 
