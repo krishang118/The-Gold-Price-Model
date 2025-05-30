@@ -1,0 +1,13 @@
+flask
+pandas
+requests
+beautifulsoup4
+matplotlib
+scikit-learn
+statsmodels
+xgboost
+pmdarima
+selenium
+webdriver-manager
+openpyxl
+flask-cors 
