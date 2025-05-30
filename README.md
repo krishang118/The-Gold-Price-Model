@@ -25,7 +25,7 @@ The key steps are:
 
 ## Data Files
 
-Running the scraping cells in the notebook generate the following files:
+Running the scraping cells in the notebook generates the following files:
 
 -   `daily_gold.xlsx`: Excel file containing scraped daily gold price data.
 -   `monthly_gold.xlsx`: Excel file containing scraped monthly gold price data.
