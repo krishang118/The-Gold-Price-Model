@@ -34,7 +34,7 @@ These files are then used as input for the subsequent data processing and modeli
 
 ## Web Application 
 
-The initially built ML model is visualized through a full-stack web application, which, like the procedure followed in the Jupyter notebook, scrapes current and historical gold price data, performs forecasting using statistical models, and visualizes the data and predictions on a user-friendly frontend dashboard.
+The initially built ML model forms the basis and is visualized through a full-stack web application, which, like the procedure followed in the Jupyter notebook, scrapes current and historical gold price data, performs forecasting using statistical models, and visualizes the data and predictions on a user-friendly frontend dashboard.
 
 ## Features
 
