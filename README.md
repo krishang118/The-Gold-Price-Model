@@ -120,7 +120,7 @@ The frontend development server should start on `http://localhost:5173`.
 ## Project Structure
 
 ```
-The-Gold-Prices-Model/
+The-Gold-Price-Model/
 ├── api/                # Flask backend code
 ├── src/                # React frontend code
 │   ├── components/     # Reusable React components
