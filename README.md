@@ -6,7 +6,7 @@ The 'ML' folder includes the ML Model Jupyter notebook file (`Gold Prices Model.
 
 The model implements the thorough process of scraping real-time gold price data; developing, training, and evaluating a time series forecasting model; and generating future price predictions.
 
-The key steps are:
+The key steps here are:
 
 1.  **Data Scraping:** Utilizes Selenium to automate the process of extracting real-time daily and monthly per gram 24K gold price (in India) data from 'The Economic Times' website.
 2.  **Data Loading and Preprocessing:** Loads the scraped data, primarily using pandas, and performs necessary preprocessing steps to prepare it for time series analysis.
